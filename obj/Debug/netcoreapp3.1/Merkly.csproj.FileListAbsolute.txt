@@ -1,0 +1,13 @@
+/Users/Evelyn/Desktop/IS 414/Merkly/obj/Debug/netcoreapp3.1/Merkly.csproj.AssemblyReference.cache
+/Users/Evelyn/Desktop/IS 414/Merkly/obj/Debug/netcoreapp3.1/Merkly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Evelyn/Desktop/IS 414/Merkly/obj/Debug/netcoreapp3.1/Merkly.AssemblyInfoInputs.cache
+/Users/Evelyn/Desktop/IS 414/Merkly/obj/Debug/netcoreapp3.1/Merkly.AssemblyInfo.cs
+/Users/Evelyn/Desktop/IS 414/Merkly/obj/Debug/netcoreapp3.1/Merkly.csproj.CoreCompileInputs.cache
+/Users/Evelyn/Desktop/IS 414/Merkly/bin/Debug/netcoreapp3.1/Merkly.deps.json
+/Users/Evelyn/Desktop/IS 414/Merkly/bin/Debug/netcoreapp3.1/Merkly.runtimeconfig.json
+/Users/Evelyn/Desktop/IS 414/Merkly/bin/Debug/netcoreapp3.1/Merkly.runtimeconfig.dev.json
+/Users/Evelyn/Desktop/IS 414/Merkly/bin/Debug/netcoreapp3.1/Merkly.dll
+/Users/Evelyn/Desktop/IS 414/Merkly/bin/Debug/netcoreapp3.1/Merkly.pdb
+/Users/Evelyn/Desktop/IS 414/Merkly/obj/Debug/netcoreapp3.1/Merkly.dll
+/Users/Evelyn/Desktop/IS 414/Merkly/obj/Debug/netcoreapp3.1/Merkly.pdb
+/Users/Evelyn/Desktop/IS 414/Merkly/obj/Debug/netcoreapp3.1/Merkly.genruntimeconfig.cache
